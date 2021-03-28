@@ -1,6 +1,6 @@
 # flutter_template_v1
 
-A new Flutter template for state management technique.
+A new Flutter template for state management technique using MVVM architecture.
 
 ## Getting Started
 
